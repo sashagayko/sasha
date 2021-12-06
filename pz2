@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Лучшая канцелярия только у нас">
+		<title>Канцелярия для Вас и Ваших детей</title>	
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	
+	<body>
+		<h1 align="center"><font size="64">Канцелярия для Вас и Ваших детей</font></h1>
+		<br>
+		<div align="center">
+			<picture>
+				<source srcset="qqq.png" media="(min-width: 1300px)">
+				<source srcset="qq.png" media="(min-width: 800px)">
+				<img src="q.png" alt="" style="width:auto;">
+			</picture>
+		</div>
+		<br>
+		<br>
+		<h2 align="center"><font size="48">Детские принадлежности</font></h2>
+		<br>
+		<p align="center"><font size="6">В нашем интернет-магазине вы сможете найти большой выбор детских принадлежностей. Большой выбор фломастеров, карандашей, тетрадей.</font></p>
+		<br>
+		<br>
+		<div align="center">
+			<img src="eee.png" alt="" width="1269" height="695" usemap="#workmap">
+			<map name="workmap">
+				<area shape="circle" coords="682,86,80" alt="" href="#glasses">
+				<area shape="poly" coords="598,209,780,186,850,470,658,505" alt="" href="#watercolor">
+				<area shape="poly" coords="1127,579,1113,586,922,281,913,244,920,236,845,104,888,93,950,190,959,182,909,95,935,80,961,125,987,105,1203,548,1191,554,1169,515,1157,519,1161,547,1128,500,1115,503,1137,548,1122,558" alt="" href="#brushes">
+			</map>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div class="caption"><img src="Vector.png" alt="" width="43"><b>&ensp;Набор акварелей</b></div>		
+		<table class="table" id="watercolor">
+			<thead>
+				<tr>
+					<th>10 шт.</th>
+					<th>20 шт.</th>
+					<th>30 шт.</th>	
+					<th>40 шт.</th>
+					<th>50 шт.</th>
+					<th>60 шт.</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>10 BYN</td>
+					<td>20 BYN</td>
+					<td>30 BYN</td>
+					<td>40 BYN</td>
+					<td>50 BYN</td>
+					<td>60 BYN</td>
+				</tr>
+			</tbody>
+		</table>		
+		<br>
+		<br>
+		<br>
+		<div class="caption"><object data="Vector1.png" width="40"></object><b>&ensp;Набор кисточек</b></div>
+		<table class="table" id="brushes">
+			<thead>
+				<tr>
+					<th>10 шт.</th>
+					<th>20 шт.</th>
+					<th>30 шт.</th>	
+					<th>40 шт.</th>
+					<th>50 шт.</th>
+					<th>60 шт.</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>5 BYN</td>
+					<td>10 BYN</td>
+					<td>15 BYN</td>
+					<td>20 BYN</td>
+					<td>25 BYN</td>
+					<td>30 BYN</td>
+				</tr>
+			</tbody>
+		</table>
+		<br>
+		<br>
+		<br>
+		<div class="caption">
+			<svg width="35" height="50" viewBox="0 0 35 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H34.9L30.8117 40.8778C30.5657 43.3383 29.4142 45.6196 27.5808 47.2789C25.7474 48.9382 23.3629 49.857 20.8901 49.8571H14.0098C11.5371 49.857 9.15259 48.9382 7.31919 47.2789C5.4858 45.6196 4.33432 43.3383 4.08828 40.8778L0 0ZM6.25707 12.4643L5.50921 4.98571H29.3908L28.6429 12.4643H6.25707ZM6.75564 17.45L9.04906 40.3818C9.17208 41.612 9.74782 42.7527 10.6645 43.5823C11.5812 44.4119 12.7735 44.8714 14.0098 44.8714H20.8901C22.1265 44.8714 23.3188 44.4119 24.2355 43.5823C25.1522 42.7527 25.7279 41.612 25.8509 40.3818L28.1443 17.45H6.75564Z" fill="black"/>
+			</svg><b>&ensp;Стаканчики</b>
+		</div>
+		<table class="table" id="glasses">
+			<thead>
+				<tr>
+					<th>1 шт.</th>
+					<th>2 шт.</th>
+					<th>3 шт.</th>	
+					<th>4 шт.</th>
+					<th>5 шт.</th>
+					<th>6 шт.</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>3 BYN</td>
+					<td>5 BYN</td>
+					<td>7 BYN</td>
+					<td>9 BYN</td>
+					<td>11 BYN</td>
+					<td>13 BYN</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+	
+</html>
